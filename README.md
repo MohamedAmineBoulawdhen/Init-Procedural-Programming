@@ -23,6 +23,4 @@ Calculate the dot product of two given vectors of IR
 
 ## Algorithm: Orthogonal vectors using function
 - Same as above algorithm with the difference of calling dot_product function instead of procedure.
----
-🙌 If you found this repository helpful, show your support by starring it. Your support means a lot. 
-Thank you for your time and consideration!
+
